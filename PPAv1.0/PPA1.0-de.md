@@ -16,8 +16,8 @@ Das PPA wird auf http://picopeer.net von einer Gruppe Freiwilliger aus verschied
 
 ### 2. Offene Kommunikatione ###
 * Der Eigentümer erklärt, alle Informationen zu veröffentlichen, die für die Verbindung mit seiner Netzwerkinfrastruktur notwendig sind.
-* Diese Information soll (muss?) unter einer freien Lizenz (free licence) veröffentlicht werden.
-* Der Eigentümer erklärt, erreichbar zu sein und wird dazu wenigstens eine E-Mail-Adresse bekanntgeben.
+* Diese Information soll unter einer freien Lizenz (free licence) veröffentlicht werden.
+* Der Eigentümer erklärt, erreichbar zu sein und wird dazu idealerweise eine E-Mail-Adresse bekanntgeben.
 
 ### 3. Keine Garantie (Haftungsausschluss) ###
 * Es wird keinerlei garantierter Dienst (Betrieb, Service) vereinbart. (Es gibt keine Garantie für die Verfügbarkeit / Qualität des Dienstes.)
