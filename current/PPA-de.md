@@ -4,9 +4,9 @@
 
 Mittlerweile gibt es viele Community-Netzwerke, diese sind jedoch geographisch und sozial voneinander getrennt und bilden kein zusammenhängendes Netzwerk. Dieses Dokument ist ein Ansatz (Versuch), diese Netzwerkinseln miteinander zu verbinden, indem es die minimale, grundsätzliche Vorlage für ein "Peering"-Abkommen (Verbindungsabkommen, Bündnisabkommen) zwischen den Eigentümern individueller Netzwerkknoten liefert: das PicoPeeringAgreement (PPA).
 
-Das PPA ist eine formalisierte Beschreibung der Verbindung zwischen zwei Netzwerk-Instanzen. Eigentümer einer Netzwerkinfrastruktur machen von ihrem Eigentumsrecht gebrauch, indem sie ihr Einverständnis dafür geben, einen Teil ihrer Infrastruktur für den freien Datenaustausch über ihr Netzwerk bereitzustellen.
+Das PPA ist eine formalisierte Beschreibung der Verbindung zwischen zwei Netzwerk-Instanzen. Eigentümer einer Netzwerkinfrastruktur machen von ihrem Eigentumsrecht Gebrauch, indem sie ihr Einverständnis dafür geben, einen Teil ihrer Infrastruktur für den freien Datenaustausch über ihr Netzwerk bereitzustellen.
 
-Das PPA wird auf http://picopeer.net von einer Gruppe Freiwilliger aus verschiedenen Ländern der Welt gepflegt. Es soll als Vorlage für weitere Kleinst-Verbindungsabkommen und Verträge dienen.
+Das PPA wird auf http://picopeer.net von einer Gruppe Freiwilligen aus verschiedenen Ländern der Welt gepflegt. Es soll als Vorlage für weitere Kleinst-Verbindungsabkommen und Verträge dienen.
 
 ## Vereinbarung ##
 
@@ -40,4 +40,4 @@ Das PPA wird auf http://picopeer.net von einer Gruppe Freiwilliger aus verschied
 * **Der Dienst**: Der Dienst (Betrieb, Service) besteht aus freiem Transit und zusätzlichen Diensten.
 * **Zusätzliche Dienste**: Im Sinne des PPA ist ein zusätzlicher Dienst alles war über freien Transit hinaus geht. Zum Beispiel die Bereitstellung eines DHCP-Servers, WEB-Servers oder Mail-Servers.
 
-Das PPA soll nach vereinbarten Standards in maschinenlesbarer Form in Community-Node-Datenbanken eingebaut werden, um die automatische Vernetzung solcher Knoten zu ermöglichen.
+Das PPA soll nach vereinbarten Standards in maschinenlesbarer Form in Community-Knoten-Datenbanken eingebaut werden, um die automatische Vernetzung solcher Knoten zu ermöglichen.
